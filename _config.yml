@@ -85,7 +85,7 @@ author:
   bio              : "I am currently a first-year Ph.D student in the Lab of MAC, Institute of Artificial Intelligence, Xiamen University, My supervisor is Prof. Rongrong Ji."
   location         : "Xiamen University, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g1-HBJAAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
