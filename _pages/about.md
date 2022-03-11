@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D student in the MAC lab, Institute of Artificial Intelligence, Xiamen University, China. My supervisor is Prof. Rongrong Ji. 
+ I am currently a first-year Ph.D student in the MAC lab, Institute of Artificial Intelligence, Xiamen University, China. My supervisor is Prof. Rongrong Ji. 
 
 Recently, I focus on:
 
@@ -40,28 +40,27 @@ If you have any question about our papers/projects or any interest in these rese
 
 ## Working experience
 
-- 2018.9-2019.9
-  - Research Intern, Megvii Technology, Beijing
+- 2020.11-2021.9                        														       
+  - Intern, MAC lab, Xiamen University, Xiamen
+- 2020.7-2020.11                          																		      
+  - Full-time employee, Baidu, Beijing
 
 - 2019.11-2020.2                   														       
   - Research Intern, Kuaishou Technology, Beijing
 
-- 2020.7-2020.11                          																		      
-  - Full-time employee, Baidu, Beijing
-
-- 2020.11-2021.9                        														       
-  - Intern, MAC lab, Xiamen University, Xiamen
+- 2018.9-2019.9
+  - Research Intern, Megvii Technology, Beijing
 
 
 
 ## Educations
 
-- 2013.9-2017.7 
-  - Software Engineering, *B.S.*, Beijing Institute of Technology, Beijing
+- 2021.7-                						
+  - Intelligence Science and Technology, *Ph.D student*, Xiamen University,  Xiamen
 
 - 2017.9-2020.7     				   												
   - Software Engineering, *M.S.*, Peking University, Beijing
 
-- 2021.7-                						
-  - Intelligence Science and Technology, *Ph.D student*, Xiamen University,  Xiamen
+- 2013.9-2017.7 
+  - Software Engineering, *B.S.*, Beijing Institute of Technology, Beijing
 
