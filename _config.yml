@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yunshan Zhong / XMU"
 title_separator          : "-"
 name                     : &name "Yunshan Zhong"
-description              : &description "Student of Xiamen University"
+description              : &description "Ph.D student of Xiamen University"
 url                      : https://zysxmu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zysxmu/zysxmu.github.io"
+repository               : "zysxmu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yunshan Zhong"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
