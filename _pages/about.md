@@ -25,7 +25,7 @@ If you have any question about our papers/projects or any interest in these rese
 
 ### Conference:
 
-1. **IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji*. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [pdf coming] [[arxiv](https://arxiv.org/abs/2111.09136)]
+1. **IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji\*. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [pdf coming] [[arxiv](https://arxiv.org/abs/2111.09136)]
 2. **Re-id driven localization refinement for person search**. Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
 3. **Re-identification supervised texture generation**. Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019*. [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
 
@@ -33,8 +33,8 @@ If you have any question about our papers/projects or any interest in these rese
 
 ### Preprint
 
-1. **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji*. *arXiv preprint arXiv:2203.03844. 2022.* [[code](https://github.com/zysxmu/DDTB)] [[arxiv](https://arxiv.org/abs/2203.03844)]
-2. **Fine-grained Data Distribution Alignment for Post-Training Quantization**. **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji*. *arXiv preprint arXiv:2109.04186. 2021.* [[code](https://github.com/zysxmu/FDDA)] [[arxiv](https://arxiv.org/abs/2109.04186)]
+1. **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. *arXiv preprint arXiv:2203.03844. 2022.* [[code](https://github.com/zysxmu/DDTB)] [[arxiv](https://arxiv.org/abs/2203.03844)]
+2. **Fine-grained Data Distribution Alignment for Post-Training Quantization**. **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji\*. *arXiv preprint arXiv:2109.04186. 2021.* [[code](https://github.com/zysxmu/FDDA)] [[arxiv](https://arxiv.org/abs/2109.04186)]
 
 
 
