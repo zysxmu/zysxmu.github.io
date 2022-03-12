@@ -55,7 +55,7 @@ If you have any question about our papers/projects or any interests in these res
 
 ## Educations
 
-- 2021.7-                						
+- 2021.9-                						
   - Intelligence Science and Technology, *Ph.D student*, Xiamen University,  Xiamen
 
 - 2017.9-2020.7     				   												
