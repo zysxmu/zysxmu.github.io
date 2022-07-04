@@ -26,6 +26,7 @@ If you have any question about our papers/projects or any interests in these res
 ### Conference:
 
 1. **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [pdf coming] [[arxiv](https://arxiv.org/abs/2203.03844)]
+   
    authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
    
    
