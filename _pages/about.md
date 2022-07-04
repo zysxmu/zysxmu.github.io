@@ -37,13 +37,13 @@ If you have any question about our papers/projects or any interests in these res
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji\*.
 
-4. **Re-id driven localization refinement for person search**. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
+4. **Re-id driven localization refinement for person search**. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
 
-&emsp;&emsp; authors: Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*.
+&emsp;&emsp; authors: Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. 
 
-5. **Re-identification supervised texture generation**. [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
+5. **Re-identification supervised texture generation**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019* [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
 
-&emsp;&emsp; authors: Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019*
+&emsp;&emsp; authors: Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. 
 
 
 
