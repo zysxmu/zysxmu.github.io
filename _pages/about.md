@@ -25,10 +25,10 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Conference:
 
-1. **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. 
-   **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
+1. **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [pdf coming] [[arxiv](https://arxiv.org/abs/2203.03844)]
+   authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
    
-   *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [pdf coming] [[arxiv](https://arxiv.org/abs/2203.03844)]
+   
 3. **Fine-grained Data Distribution Alignment for Post-Training Quantization**. **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji\*. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [pdf coming] [[arxiv](https://arxiv.org/abs/2109.04186)]
 4. **IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji\*. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf)] [[arxiv](https://arxiv.org/abs/2111.09136)]
 5. **Re-id driven localization refinement for person search**. Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
