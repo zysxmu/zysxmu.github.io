@@ -49,7 +49,7 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Preprint
 
-1- **Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training**. [] [[arxiv](https://arxiv.org/pdf/2211.08544.pdf)]
+1- **Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training**. [[code](https://github.com/zysxmu/LTS)] [[arxiv](https://arxiv.org/pdf/2211.08544.pdf)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Gongrui Nan, Fei Chao, Rongrong Ji\*. 
 
