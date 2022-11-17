@@ -25,11 +25,11 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Conference:
 
-1- **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [pdf coming] [[arxiv](https://arxiv.org/abs/2203.03844)]
+1- **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780001.pdf)] [[arxiv](https://arxiv.org/abs/2203.03844)]
    
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
    
-2- **Fine-grained Data Distribution Alignment for Post-Training Quantization**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [pdf coming] [[arxiv](https://arxiv.org/abs/2109.04186)]
+2- **Fine-grained Data Distribution Alignment for Post-Training Quantization**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710070.pdf)] [[arxiv](https://arxiv.org/abs/2109.04186)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji\*. 
   
@@ -49,7 +49,9 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Preprint
 
+1- **Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training**. [] [[arxiv](https://arxiv.org/pdf/2211.08544.pdf)]
 
+&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Gongrui Nan, Fei Chao, Rongrong Ji\*. 
 
 
 ## Working experience
