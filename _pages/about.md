@@ -15,7 +15,7 @@ Recently, I focus on:
 - Network compression and acceleration
 - Efficient low-level model
 
-If you have any question about our papers/projects or any interests in these research subject, be free to contact me: zhongyunshan@stu.xmu.edu.cn
+If you have any question about our papers/projects or any interests in these research subjects, be free to contact me: zhongyunshan@stu.xmu.edu.cn
 
 
 
