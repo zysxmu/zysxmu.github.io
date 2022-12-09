@@ -53,7 +53,7 @@ If you have any question about our papers/projects or any interests in these res
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Gongrui Nan, Fei Chao, Rongrong Ji\*. 
 
-2- **Shadow Removal by High-Quality Shadow Synthesis**. [[code]([https://github.com/zysxmu/LTS](https://github.com/zysxmu/HQSS))] [[arxiv](https://arxiv.org/abs/2212.04108)]
+2- **Shadow Removal by High-Quality Shadow Synthesis**. [[code]([https://github.com/zysxmu/LTS](https://github.com/zysxmu/HQSS)] [[arxiv](https://arxiv.org/abs/2212.04108)]
  
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Lizhou You, Luoqi Liu, Rongrong Ji\*. 
 
