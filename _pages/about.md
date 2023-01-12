@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am currently a first-year Ph.D student in the MAC lab, Institute of Artificial Intelligence, Xiamen University, China. My supervisor is Prof. Rongrong Ji. 
+ I am currently a second-year Ph.D student in the MAC lab, Institute of Artificial Intelligence, Xiamen University, China. My supervisor is Prof. Rongrong Ji. 
 
 Recently, I focus on:
 
