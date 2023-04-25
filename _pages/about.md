@@ -25,6 +25,10 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Conference:
 
+**Bi-directional Masks for Efficient N:M Sparse Training**. *International Conference on Machine Learning (ICML) 2023* [[code](https://github.com/zyxxmu/Bi-Mask)] [[arxiv](https://arxiv.org/abs/2302.06058)]
+
+&emsp;&emsp; authors: Yuxin Zhang*, Yiting Luo*, Mingbao Lin, **Yunshan Zhong**, Jingjing Xie, Fei Chao, Rongrong Ji\*.
+
 1- **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780001.pdf)] [[arxiv](https://arxiv.org/abs/2203.03844)]
    
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
