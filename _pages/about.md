@@ -29,23 +29,23 @@ If you have any question about our papers/projects or any interests in these res
 
 &emsp;&emsp; authors: Yuxin Zhang*, Yiting Luo*, Mingbao Lin, **Yunshan Zhong**, Jingjing Xie, Fei Chao, Rongrong Ji\*.
 
-1- **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780001.pdf)] [[arxiv](https://arxiv.org/abs/2203.03844)]
+**Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780001.pdf)] [[arxiv](https://arxiv.org/abs/2203.03844)]
    
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
    
-2- **Fine-grained Data Distribution Alignment for Post-Training Quantization**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710070.pdf)] [[arxiv](https://arxiv.org/abs/2109.04186)]
+**Fine-grained Data Distribution Alignment for Post-Training Quantization**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710070.pdf)] [[arxiv](https://arxiv.org/abs/2109.04186)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji\*. 
   
-3- **IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf)] [[arxiv](https://arxiv.org/abs/2111.09136)]
+**IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf)] [[arxiv](https://arxiv.org/abs/2111.09136)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji\*.
 
-4- **Re-id driven localization refinement for person search**. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
+**Re-id driven localization refinement for person search**. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
 
 &emsp;&emsp; authors: Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. 
 
-5- **Re-identification supervised texture generation**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019* [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
+**Re-identification supervised texture generation**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019* [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
 
 &emsp;&emsp; authors: Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. 
 
