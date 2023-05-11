@@ -55,6 +55,8 @@ If you have any question about our papers/projects or any interests in these res
 
 **Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**. [[code](https://github.com/zysxmu/DFSQ)] [[arxiv](https://arxiv.org/abs/2305.05888)]
 
+&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Jingjing Xie, Yuxin Zhang, Fei Chao, Rongrong Ji\*. 
+
 **Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training**. [[code](https://github.com/zysxmu/LTS)] [[arxiv](https://arxiv.org/pdf/2211.08544.pdf)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Gongrui Nan, Fei Chao, Rongrong Ji\*. 
@@ -63,6 +65,10 @@ If you have any question about our papers/projects or any interests in these res
  
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Lizhou You, Luoqi Liu, Rongrong Ji\*. 
 
+
+## Academic activities
+
+Reviewer of CVPR, ICCV, NeurIPS, IEEE TNNLS.
 
 ## Working experience
 
