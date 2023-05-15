@@ -51,7 +51,7 @@ If you have any question about our papers/projects or any interests in these res
 
 
 
-### Preprint
+### Preprint:
 
 **Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**. [[code](https://github.com/zysxmu/DFSQ)] [[arxiv](https://arxiv.org/abs/2305.05888)]
 
