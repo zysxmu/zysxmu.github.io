@@ -72,8 +72,12 @@ Reviewer of CVPR, ICCV, NeurIPS, IEEE TNNLS.
 
 ## Working experience
 
+- 2022.05-2023.05                        														       
+  - Research Intern, Pengcheng Lab, Shenzhen
+
 - 2020.11-2021.9                        														       
-  - Intern, MAC lab, Xiamen University, Xiamen
+  - Research Intern, MAC lab, Xiamen University, Xiamen
+  
 - 2020.7-2020.11                          																		      
   - Full-time employee, Baidu, Beijing
 
