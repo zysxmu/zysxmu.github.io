@@ -79,7 +79,7 @@ Reviewer of CVPR, ICCV, NeurIPS, IEEE TNNLS.
   - Research Intern, MAC lab, Xiamen University, Xiamen
   
 - 2020.7-2020.11                          																		      
-  - Full-time employee, Baidu, Beijing
+  - R&D, Baidu, Beijing
 
 - 2019.11-2020.2                   														       
   - Research Intern, Kuaishou Technology, Beijing
