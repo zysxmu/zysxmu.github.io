@@ -53,6 +53,11 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Preprint:
 
+**MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization**. [[code](https://github.com/zysxmu/MultiQuant)] [[arxiv](https://arxiv.org/abs/2305.08117)]
+
+&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin,  Yuyao Zhou, Mengzhao Chen, Yuxin Zhang, Fei Chao, Rongrong Ji\*. 
+
+
 **Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**. [[code](https://github.com/zysxmu/DFSQ)] [[arxiv](https://arxiv.org/abs/2305.05888)]
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Jingjing Xie, Yuxin Zhang, Fei Chao, Rongrong Ji\*. 
