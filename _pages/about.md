@@ -55,6 +55,7 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Journal:
 **Lottery jackpots exist in pre-trained models**. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2024* [[pdf](https://ieeexplore.ieee.org/abstract/document/10239276)]
+
 &emsp;&emsp; authors: Yuxin Zhang, Mingbao Lin, **Yunshan Zhong**, Fei Chao, Rongrong Ji\*. 
 
 ### Preprint:
