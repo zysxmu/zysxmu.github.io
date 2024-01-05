@@ -25,6 +25,10 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Conference:
 
+**Learning Image Demoiréing from Unpaired Real Data**. *AAAI Conference on Artificial Intelligence (AAAI) 2024* [[code](https://github.com/zysxmu/UnDeM)] 
+
+&emsp;&emsp; authors: **Yunshan Zhong**, Yuyao Zhou, Yuxin Zhang, Fei Chao, Rongrong Ji\*.
+
 **Bi-directional Masks for Efficient N:M Sparse Training**. *International Conference on Machine Learning (ICML) 2023* [[code](https://github.com/zyxxmu/Bi-Mask)] [[arxiv](https://arxiv.org/abs/2302.06058)]
 
 &emsp;&emsp; authors: Yuxin Zhang*, Yiting Luo*, Mingbao Lin, **Yunshan Zhong**, Jingjing Xie, Fei Chao, Rongrong Ji\*.
@@ -49,7 +53,9 @@ If you have any question about our papers/projects or any interests in these res
 
 &emsp;&emsp; authors: Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. 
 
-
+### Journal:
+**Lottery jackpots exist in pre-trained models**. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2024* [[pdf](https://ieeexplore.ieee.org/abstract/document/10239276)]
+&emsp;&emsp; authors: Yuxin Zhang, Mingbao Lin, **Yunshan Zhong**, Fei Chao, Rongrong Ji\*. 
 
 ### Preprint:
 
@@ -73,7 +79,7 @@ If you have any question about our papers/projects or any interests in these res
 
 ## Academic activities
 
-Reviewer of CVPR, ICCV, NeurIPS, IEEE TNNLS.
+Reviewer of ICML, ICLR, CVPR, ICCV, NeurIPS, IEEE TNNLS.
 
 ## Working experience
 
