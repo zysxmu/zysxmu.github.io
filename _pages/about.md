@@ -25,6 +25,10 @@ If you have any question about our papers/projects or any interests in these res
 
 ### Conference:
 
+**ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**. **(Spotlight Paper, 3.5%)** *International Conference on Machine Learning (ICML) 2024* [] 
+
+&emsp;&emsp; authors: **Yunshan Zhong**, Jiawei Hu, You Huang, Yuxin Zhang, Rongrong Ji\*.
+
 **Learning Image Demoiréing from Unpaired Real Data**. *AAAI Conference on Artificial Intelligence (AAAI) 2024* [[code](https://github.com/zysxmu/UnDeM)] 
 
 &emsp;&emsp; authors: **Yunshan Zhong**, Yuyao Zhou, Yuxin Zhang, Fei Chao, Rongrong Ji\*.
