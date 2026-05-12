@@ -1,118 +1,116 @@
 ---
 permalink: /
-title: "Yunshan Zhong's homepage"
+title: "Yunshan Zhong (钟云山)"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
- I am currently a second-year Ph.D student in the MAC lab, Institute of Artificial Intelligence, Xiamen University, China. My supervisor is Prof. Rongrong Ji. 
+I am an AI researcher and teacher at Xiamen University, specializing in **efficient deep learning** and **model compression**. My research focuses on making state-of-the-art AI models practical for real-world deployment through post-training quantization, network pruning, and architecture design.
 
-Recently, I focus on:
+Previously, I obtained my Ph.D. from the MAC Lab at Xiamen University under the supervision of [Prof. Rongrong Ji](https://scholar.google.com/citations?user=lLx2CGcAAAAJ).
 
-- Network compression and acceleration
-- Efficient low-level model
+## 🔬 Research Interests
 
-If you have any question about our papers/projects or any interests in these research subjects, be free to contact me: zhongyunshan@stu.xmu.edu.cn
+- **Model Quantization** — Post-Training Quantization (PTQ), Data-Free Quantization, arbitrary bit-width quantization
+- **Efficient Vision Transformers** — ViT compression, post-training ViTs quantization
+- **Generative Model Efficiency** — Diffusion model acceleration, efficient inference
+- **Image Restoration** — Super-resolution, demoireing, shadow removal
 
+## 📢 News
 
+- **2026.05** — One paper accepted to **ICLR 2026** (Test-Time Error Correction for Diffusion Models)
+- **2026.03** — One paper accepted to **CVPR 2026 (Findings)** (Data-Free Quantization for CLIP)
+- **2025.07** — Two papers accepted to **ICCV 2025** (PTQ for SAM, Data-Free Quantization for ViTs)
+- **2025** — Two papers published in **TPAMI** (I&S-ViT, Accurate PTQ of ViTs)
+- **2024** — One paper accepted to **ICML 2024 (Spotlight, 3.5%)** — ERQ for PTQ of ViTs
+- **2024** — One paper accepted to **AAAI 2024** (Image Demoireing from Unpaired Data)
 
+## 📝 Selected Publications
 
+A full list is available on the [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=g1-HBJAAAAAJ&hl=zh-CN).
 
-## Publications
+### 2026
 
-### Conference:
+- **D4C: Data-Free Quantization for Contrastive Language-Image Pre-training Models**
+  Wenlun Zhang, **Yunshan Zhong**, Zihao Ding, Xinyu Li, Kentaro Yoshioka
+  *CVPR 2026 (Findings)*, CCF-A
 
-**ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**. **(Spotlight Paper, 3.5%)** *International Conference on Machine Learning (ICML) 2024* [] 
+- **Test-Time Iterative Error Correction for Efficient Diffusion Models**
+  **Yunshan Zhong**, Weiqi Yan, Yuxin Zhang
+  *ICLR 2026*, CCF-A
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Jiawei Hu, You Huang, Yuxin Zhang, Rongrong Ji\*.
+### 2025
 
-**Learning Image Demoiréing from Unpaired Real Data**. *AAAI Conference on Artificial Intelligence (AAAI) 2024* [[code](https://github.com/zysxmu/UnDeM)] 
+- **I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization**
+  **Yunshan Zhong**, Jiawei Hu, Mingbao Lin, Mengzhao Chen, Rongrong Ji
+  *IEEE TPAMI*, CCF-A
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Yuyao Zhou, Yuxin Zhang, Fei Chao, Rongrong Ji\*.
+- **Towards Accurate Post-Training Quantization of Vision Transformers via Error Reduction**
+  **Yunshan Zhong**, You Huang, Jiawei Hu, Yuxin Zhang, Rongrong Ji
+  *IEEE TPAMI*, CCF-A
 
-**Bi-directional Masks for Efficient N:M Sparse Training**. *International Conference on Machine Learning (ICML) 2023* [[code](https://github.com/zyxxmu/Bi-Mask)] [[arxiv](https://arxiv.org/abs/2302.06058)]
+- **Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**
+  **Yunshan Zhong**, Mingbao Lin, Jingjing Xie, Yuxin Zhang, Fei Chao, Rongrong Ji
+  *SCIENCE CHINA Information Sciences (SCIS)*, CCF-A
 
-&emsp;&emsp; authors: Yuxin Zhang*, Yiting Luo*, Mingbao Lin, **Yunshan Zhong**, Jingjing Xie, Fei Chao, Rongrong Ji\*.
+- **AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for SAM**
+  Wenlun Zhang, **Yunshan Zhong**, Shimpei Ando, Kentaro Yoshioka
+  *ICCV 2025*, CCF-A
 
-**Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/DDTB)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780001.pdf)] [[arxiv](https://arxiv.org/abs/2203.03844)]
-   
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji\*. 
-   
-**Fine-grained Data Distribution Alignment for Post-Training Quantization**. *European Conference on Computer Vision (ECCV) 2022.* [[code](https://github.com/zysxmu/FDDA)] [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710070.pdf)] [[arxiv](https://arxiv.org/abs/2109.04186)]
+- **Semantic Alignment and Reinforcement for Data-Free Quantization of Vision Transformers**
+  **Yunshan Zhong**, Yuyao Zhou, Yuxin Zhang, Wanchen Sui, Shen Li, Yong Li, Fei Chao, Rongrong Ji
+  *ICCV 2025*, CCF-A
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Feiyue Huang, Rongrong Ji\*. 
-  
-**IntraQ: Learning Synthetic Images with Intra-Class Heterogeneity for Zero-Shot Network Quantization**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.* [[code](https://github.com/zysxmu/IntraQ)] [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_IntraQ_Learning_Synthetic_Images_With_Intra-Class_Heterogeneity_for_Zero-Shot_Network_CVPR_2022_paper.pdf)] [[arxiv](https://arxiv.org/abs/2111.09136)]
+- **MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization**
+  **Yunshan Zhong**, Yuyao Zhou, Fei Chao, Rongrong Ji
+  *Pattern Recognition (PR)*, CCF-B
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Gongrui Nan, Jianzhuang Liu, Baochang Zhang, Yonghong Tian, Rongrong Ji\*.
+### 2024
 
-**Re-id driven localization refinement for person search**. *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019*. [[arxiv]((https://arxiv.org/pdf/1909.08580))]
+- **ERQ: Error Reduction for Post-Training Quantization of Vision Transformers**
+  **Yunshan Zhong**, Jiawei Hu, You Huang, Yuxin Zhang, Rongrong Ji
+  *ICML 2024, **Spotlight (3.5%)***, CCF-A
 
-&emsp;&emsp; authors: Chuchu Han, Jiacheng Ye, **Yunshan Zhong**, Xin Tan, Chi Zhang, Changxin Gao, Nong Sang. 
+- **Learning Image Demoireing from Unpaired Real Data**
+  **Yunshan Zhong**, Yuyao Zhou, Yuxin Zhang, Fei Chao, Rongrong Ji
+  *AAAI 2024*, CCF-A
 
-**Re-identification supervised texture generation**. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019* [[code](https://github.com/yt4766269/TextureGeneration)] [[pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.pdf)] [[arxiv](https://arxiv.org/abs/1904.03385)]
+### 2022
 
-&emsp;&emsp; authors: Jian Wang, **Yunshan Zhong**, Yachun Li, Chi Zhang, Yichen Wei. 
+- **Dynamic Dual Trainable Bounds for Ultra-low Precision Super-Resolution Networks**
+  **Yunshan Zhong**, Mingbao Lin, Xunchao Li, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji
+  *ECCV 2022*, CCF-B
 
-### Journal:
-**Lottery jackpots exist in pre-trained models**. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2024* [[pdf](https://ieeexplore.ieee.org/abstract/document/10239276)]
+- **Fine-grained Data Distribution Alignment for Post-Training Quantization**
+  **Yunshan Zhong**, Mingbao Lin, Mengzhao Chen, Ke Li, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji
+  *ECCV 2022*, CCF-B
 
-&emsp;&emsp; authors: Yuxin Zhang, Mingbao Lin, **Yunshan Zhong**, Fei Chao, Rongrong Ji\*. 
+## 🎓 Education
 
-### Preprint:
+| Degree | Period | Institution |
+|--------|--------|-------------|
+| **Ph.D.** in Intelligence Science & Technology | 2021 – 2025 | Xiamen University |
+| **M.S.** in Software Engineering | 2017 – 2020 | Peking University |
+| **B.S.** in Software Engineering | 2013 – 2017 | Beijing Institute of Technology |
 
-**MultiQuant: A Novel Multi-Branch Topology Method for Arbitrary Bit-width Network Quantization**. [[code](https://github.com/zysxmu/MultiQuant)] [[arxiv](https://arxiv.org/abs/2305.08117)]
+## 💼 Experience
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin,  Yuyao Zhou, Mengzhao Chen, Yuxin Zhang, Fei Chao, Rongrong Ji\*. 
+- **2023.05 – Present** — AI Teacher / Researcher, Xiamen University
+- **2022.05 – 2023.05** — Research Intern, Pengcheng Lab, Shenzhen
+- **2020.11 – 2021.09** — Research Intern, MAC Lab, Xiamen University
+- **2020.07 – 2020.11** — R&D Engineer, Baidu, Beijing
+- **2019.11 – 2020.02** — Research Intern, Kuaishou Technology, Beijing
+- **2018.09 – 2019.09** — Research Intern, Megvii Technology (Face++), Beijing
 
+## 🔍 Professional Service
 
-**Distribution-Flexible Subset Quantization for Post-Quantizing Super-Resolution Networks**. [[code](https://github.com/zysxmu/DFSQ)] [[arxiv](https://arxiv.org/abs/2305.05888)]
+**Reviewer:** ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV, IEEE TNNLS, IEEE TCSVT
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Jingjing Xie, Yuxin Zhang, Fei Chao, Rongrong Ji\*. 
+**Teaching:** Introduction to AI, Deep Learning, Model Compression
 
-**Exploiting the Partly Scratch-off Lottery Ticket for Quantization-Aware Training**. [[code](https://github.com/zysxmu/LTS)] [[arxiv](https://arxiv.org/pdf/2211.08544.pdf)]
+---
 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Gongrui Nan, Fei Chao, Rongrong Ji\*. 
-
-**Shadow Removal by High-Quality Shadow Synthesis**. [[code](https://github.com/zysxmu/HQSS)] [[arxiv](https://arxiv.org/abs/2212.04108)]
- 
-&emsp;&emsp; authors: **Yunshan Zhong**, Mingbao Lin, Yuxin Zhang, Lizhou You, Luoqi Liu, Rongrong Ji\*. 
-
-
-## Academic activities
-
-Reviewer of ICML, ICLR, CVPR, ICCV, NeurIPS, IEEE TNNLS.
-
-## Working experience
-
-- 2022.05-2023.05                        														       
-  - Research Intern, Pengcheng Lab, Shenzhen
-
-- 2020.11-2021.9                        														       
-  - Research Intern, MAC lab, Xiamen University, Xiamen
-  
-- 2020.7-2020.11                          																		      
-  - R&D, Baidu, Beijing
-
-- 2019.11-2020.2                   														       
-  - Research Intern, Kuaishou Technology, Beijing
-
-- 2018.9-2019.9
-  - Research Intern, Megvii Technology, Beijing
-
-
-
-## Educations
-
-- 2021.9-                						
-  - Intelligence Science and Technology, *Ph.D student*, Xiamen University,  Xiamen
-
-- 2017.9-2020.7     				   												
-  - Software Engineering, *M.S.*, Peking University, Beijing
-
-- 2013.9-2017.7 
-  - Software Engineering, *B.S.*, Beijing Institute of Technology, Beijing
-
+📧 Feel free to reach out: [yszhong01@gmail.com](mailto:yszhong01@gmail.com) | [GitHub](https://github.com/zysxmu)

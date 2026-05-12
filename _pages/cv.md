@@ -11,49 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D.** in Intelligence Science and Technology, Xiamen University, 2021 – 2025
+  * Advisor: Prof. Rongrong Ji
+  * MAC Lab, Institute of Artificial Intelligence
+* **M.S.** in Software Engineering, Peking University, 2017 – 2020
+* **B.S.** in Software Engineering, Beijing Institute of Technology, 2013 – 2017
 
-Work experience
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Model Quantization & Compression
+* Post-Training Quantization (PTQ) & Data-Free Quantization
+* Efficient Vision Transformers
+* Diffusion Model Acceleration
+* Image Restoration (Super-Resolution, Demoireing)
+* Efficient LLM Inference
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Work Experience
+======
+* **2023.05 – Present** — AI Teacher / Researcher
+  * Xiamen University
+  * Focus: Efficient deep learning, model quantization, ViT compression
+
+* **Summer 2022 – Spring 2023** — Research Intern
+  * Pengcheng Lab, Shenzhen
+  * Focus: Post-training quantization for vision models
+
+* **2020.11 – 2021.09** — Research Intern
+  * MAC Lab, Xiamen University
+  * Focus: Network compression and acceleration
+
+* **2020.07 – 2020.11** — R&D Engineer
+  * Baidu, Beijing
+  * Computer vision and deep learning systems
+
+* **2019.11 – 2020.02** — Research Intern
+  * Kuaishou Technology, Beijing
+  * Video understanding and model efficiency
+
+* **2018.09 – 2019.09** — Research Intern
+  * Megvii Technology (Face++), Beijing
+  * Person re-identification and image generation
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Deep Learning Frameworks:** PyTorch, TensorFlow
+* **Programming:** Python, C/C++, CUDA
+* **Tools:** Git, Docker, Linux, LaTeX
+* **Languages:** Chinese (Native), English (Fluent)
+
+Professional Service
+======
+* **Reviewer:** ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV
+* **Reviewer:** IEEE TNNLS, IEEE TCSVT
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+A complete list of my publications can be found on the [Publications](/publications/) page or [Google Scholar](https://scholar.google.com/citations?user=g1-HBJAAAAAJ&hl=zh-CN).
+
+**First/co-first author papers at top venues:**
+  * 2x TPAMI, 1x SCIS — top AI journals
+  * ICML (Spotlight), ICLR, AAAI — top ML conferences
+  * 2x ICCV, 2x ECCV, CVPR — top vision conferences
+  * 15+ papers in CCF-A/B venues
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% for post in site.teaching %}
+  {% include archive-single.html %}
+{% endfor %}

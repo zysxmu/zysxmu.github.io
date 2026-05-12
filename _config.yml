@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yunshan Zhong / XMU"
 title_separator          : "-"
 name                     : &name "Yunshan Zhong"
-description              : &description "Ph.D student of Xiamen University"
+description              : &description "AI Researcher & Teacher | Model Quantization & Compression"
 url                      : https://zysxmu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zysxmu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yunshan Zhong"
   avatar           : "image.jpg"
-  bio              : "zhongyunshan@stu.xmu.edu.cn"
+  bio              : "AI Researcher & Teacher. Working on efficient deep learning, model quantization, and Vision Transformers."
   location         : "Xiamen University, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g1-HBJAAAAAJ&hl=zh-CN"
-  email            :
+  email            : "yszhong01@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
