@@ -3,7 +3,7 @@ title: "Model Compression & Efficient Deep Learning"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2025-spring-model-compression
-venue: "Xiamen University"
+venue: "Hainan University"
 date: 2025-02-01
 ---
 

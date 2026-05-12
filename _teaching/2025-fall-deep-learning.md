@@ -3,7 +3,7 @@ title: "Deep Learning"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2025-fall-deep-learning
-venue: "Xiamen University"
+venue: "Hainan University"
 date: 2025-09-01
 ---
 

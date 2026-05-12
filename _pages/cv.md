@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Intelligence Science and Technology, Xiamen University, 2021 – 2025
+* **Ph.D.** in Intelligence Science and Technology, Xiamen University, 2021.09 – 2025.06
   * Advisor: Prof. Rongrong Ji
   * MAC Lab, Institute of Artificial Intelligence
-* **M.S.** in Software Engineering, Peking University, 2017 – 2020
-* **B.S.** in Software Engineering, Beijing Institute of Technology, 2013 – 2017
+* **M.S.** in Software Engineering, Peking University, 2017.09 – 2020.07
+* **B.S.** in Software Engineering, Beijing Institute of Technology, 2013.09 – 2017.07
 
 Research Interests
 ======
@@ -28,9 +28,13 @@ Research Interests
 
 Work Experience
 ======
-* **2023.05 – Present** — AI Teacher / Researcher
-  * Xiamen University
+* **2025.06 – Present** — Associate Researcher (副研究员)
+  * School of Computer Science and Technology, Hainan University
   * Focus: Efficient deep learning, model quantization, ViT compression
+
+* **2021.09 – 2025.06** — Ph.D. candidate
+  * MAC Lab, Xiamen University
+  * Focus: Network compression and post-training quantization
 
 * **Summer 2022 – Spring 2023** — Research Intern
   * Pengcheng Lab, Shenzhen

@@ -3,7 +3,7 @@ title: "Introduction to Artificial Intelligence"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2025-fall-intro-ai
-venue: "Xiamen University"
+venue: "Hainan University"
 date: 2025-09-01
 ---
 
