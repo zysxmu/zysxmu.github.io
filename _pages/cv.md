@@ -67,19 +67,3 @@ Professional Service
 ======
 * **Reviewer:** ICML, ICLR, NeurIPS, CVPR, ICCV, ECCV
 * **Reviewer:** IEEE TNNLS, IEEE TCSVT
-
-Publications
-======
-A complete list of my publications can be found on the [Publications](/publications/) page or [Google Scholar](https://scholar.google.com/citations?user=g1-HBJAAAAAJ&hl=zh-CN).
-
-**First/co-first author papers at top venues:**
-  * 2x TPAMI, 1x SCIS — top AI journals
-  * ICML (Spotlight), ICLR, AAAI — top ML conferences
-  * 2x ICCV, 2x ECCV, CVPR — top vision conferences
-  * 15+ papers in CCF-A/B venues
-
-Teaching
-======
-{% for post in site.teaching %}
-  {% include archive-single.html %}
-{% endfor %}

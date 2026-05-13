@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
 
+  - title: "中文"
+    url: /zh/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
 
   - title: "CV"
     url: /cv/
