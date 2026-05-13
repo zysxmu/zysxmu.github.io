@@ -10,7 +10,13 @@ redirect_from:
 
 I am currently an Associate Researcher (副研究员) at the School of Computer Science and Technology, Hainan University (海南大学计算机科学与技术学院). I received my Ph.D. from the MAC Lab, Xiamen University, advised by [Prof. Rongrong Ji](https://scholar.google.com/citations?user=lLx2CGcAAAAJ). Before that, I obtained my M.S. from Peking University and B.S. from Beijing Institute of Technology.
 
-I am actively recruiting motivated undergraduate students at Hainan University who are passionate about AI research to join my group. I also welcome prospective M.S. students to apply. Feel free to reach out if you are interested in efficient deep learning, model compression, or related topics.
+I am actively recruiting motivated undergraduate students at Hainan University who are passionate about AI research to join my group. I also welcome prospective M.S. students to apply.
+
+I provide every member of my group with systematic and rigorous research training — from literature review and experimental design to paper writing — with hands-on mentorship at every stage to build a solid academic foundation. The group has ample computing resources and covers AI API costs (e.g., OpenAI, Google Gemini, Claude), so you can focus on research without logistical concerns.
+
+For outstanding students, I will proactively recommend you to top tech companies (e.g., ByteDance, Tencent, Alibaba, Huawei) for core algorithm team internships or full-time positions, as well as to 985 universities for M.S. or Ph.D. programs. I will assist in connecting you with suitable advisors and writing recommendation letters. Several students I have previously recommended have gone on to achieve great success at top companies and universities.
+
+If you are passionate about AI and ready to dive deep, join us — let's do impactful work together!
 
 I have published around 20 papers in top-tier conferences and journals (CCF-A/B), with 10+ as first or corresponding author. My research focuses on making state-of-the-art AI models practical for real-world deployment, spanning **post-training quantization**, **network pruning**, and **efficient architecture design**.
 
