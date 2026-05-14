@@ -18,14 +18,21 @@ For outstanding students, I will proactively recommend you to top tech companies
 
 If you are passionate about AI and ready to dive deep, join us — let's do impactful work together!
 
-I have published around 20 papers in top-tier conferences and journals (CCF-A/B), with 10+ as first or corresponding author. My research focuses on making state-of-the-art AI models practical for real-world deployment, spanning **post-training quantization**, **network pruning**, and **efficient architecture design**.
+I have published around 20 papers in top-tier conferences and journals (CCF-A/B), with 10+ as first or corresponding author. My research focuses on making state-of-the-art AI models efficient and deployable, spanning **efficient LLMs**, **efficient visual generative models**, and **efficient visual foundation models**, with additional interests in **bioinformatics computing**.
 
 ## 🔬 Research Interests
 
-- **Model Quantization** — Post-Training Quantization (PTQ), Data-Free Quantization, arbitrary bit-width quantization
-- **Efficient Vision Transformers** — ViT compression, post-training ViTs quantization
-- **Generative Model Efficiency** — Diffusion model acceleration, efficient inference
-- **Image Restoration** — Super-resolution, demoireing, shadow removal
+My research primarily focuses on **efficient LLMs**, **efficient visual generative models**, and **efficient visual foundation models**. Specific directions include:
+
+- **LLM Compression & Acceleration**
+- **Video Generation & Understanding Model Acceleration**
+- **VLA (Vision-Language-Action) Model Acceleration**
+- **Efficient Model Safety**
+
+I am also interested in **bioinformatics computing**, including:
+
+- **Biological Language Models**
+- **Biological Agents**
 
 ## 📢 News
 

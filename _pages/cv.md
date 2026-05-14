@@ -19,12 +19,11 @@ Education
 
 Research Interests
 ======
-* Model Quantization & Compression
-* Post-Training Quantization (PTQ) & Data-Free Quantization
-* Efficient Vision Transformers
-* Diffusion Model Acceleration
-* Image Restoration (Super-Resolution, Demoireing)
-* Efficient LLM Inference
+* **Efficient LLMs:** LLM compression, quantization, pruning, speculative decoding, KV cache compression
+* **Efficient Visual Generative Models:** Diffusion model acceleration, consistency models, video generation acceleration
+* **Efficient Visual Foundation Models:** ViT compression, VLA model acceleration, video understanding acceleration
+* **Efficient Model Safety:** Robustness under compression, safe efficient inference
+* **Bioinformatics Computing:** Biological language models, biological agents, AI4Science
 
 Work Experience
 ======
